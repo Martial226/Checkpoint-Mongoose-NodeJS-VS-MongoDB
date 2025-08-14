@@ -1,6 +1,6 @@
 # Checkpoint Mongoose
 
-Ce projet est un exercice pratique pour apprendre à utiliser **Mongoose** avec **Node.js** et **MongoDB**. Il couvre la création d'un serveur Express, la connexion à une base de données MongoDB, et l'utilisation de modèles pour manipuler des données.
+Projet pratique  **Mongoose** avec **Node.js** et **MongoDB**. Il couvre la création d'un serveur Express, la connexion à une base de données MongoDB, et l'utilisation de modèles pour manipuler des données.
 
 
 ##  Installation
