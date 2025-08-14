@@ -16,13 +16,7 @@ Ce projet est un exercice pratique pour apprendre à utiliser **Mongoose** avec 
    npm install
    ```
 
-3. **Configurer les variables d'environnement**
-   - Crée un fichier `.env` à la racine du projet :
-     ```
-     MONGO_URI=<ton_uri_mongodb>
-     ```
-
-4. **Lancer le serveur**
+3. **Lancer le serveur**
    ```bash
    node server.js
    ```
